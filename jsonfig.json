@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@dooub/mobile-editor": ["/Users/muhammadali/temp/react-native-lib/src/index"]
+    }
+  }
+}
